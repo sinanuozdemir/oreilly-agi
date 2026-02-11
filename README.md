@@ -33,6 +33,8 @@ This course offers an exploration of the current approaches toward Artificial Ge
 
 - **Case Studies**
 
+	- [GRPO + Qwen](https://colab.research.google.com/drive/1Cws1IL_T_0_cP0-cHxFA0FEsXYdiAN_8?usp=sharing): Using Reinforcement Learning to train a reasoning model. 
+
 	- [Prompt Engineering Deepseek R1](https://github.com/sinanuozdemir/quick-start-guide-to-llms/blob/main/notebooks/06_adv_prompt_engineering%20-%20DEEPSEEK.ipynb) - Using fewshot learning, vector databases, and even chain of thought prompting to make reasoning models even better
 
 	**Probing**
